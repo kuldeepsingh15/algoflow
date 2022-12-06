@@ -26,11 +26,11 @@ As students often find it difficult to visualize complex data structures like li
 <!-- Snippets -->
 # Snippets
 ## Home Page
-![Home Page](https://drive.google.com/file/d/1U18M-ow0wk-_XyviUDvS0lG37i8J4s50/view?usp=sharing)
+![Home Page](https://github.com/kuldeepsingh15/algoflow/blob/main/public/Screenshot%202022-12-07%20001930.jpg)
 <br />
-![Attractive Loading](https://drive.google.com/file/d/1ltotAFDZhAxL0wLkPCMa_HOwjlQI6r4V/view?usp=sharing)
+![Attractive Loading](https://github.com/kuldeepsingh15/algoflow/blob/main/public/2%20(1).jpg)
 <br/>
-![ll](https://drive.google.com/file/d/1U18M-ow0wk-_XyviUDvS0lG37i8J4s50/view?usp=sharing)
+![ll](https://github.com/kuldeepsingh15/algoflow/blob/main/public/3.jpg)
 
 ## Run the following commands in order to execute the project
 ```
