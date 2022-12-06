@@ -5,7 +5,7 @@ Implemented linked list, backtracking, graph traversals, searching, and sorting 
 <!-- Deployed Links -->
 Deployed at:
 <br/>
-https://memories-by-kuldeep.netlify.app
+https://algoflow.netlify.app
 
 Resume:
 <br/>
